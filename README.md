@@ -15,7 +15,10 @@
   <img align="center" alt="Livia-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Livia-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Livia-pic" height="150" style="border-radius:50px;"
+       src="https://cdn.discordapp.com/attachments/941722116074659863/941722240540606514/download20220205124422.png">
 </div>
+ 
+ 
  
  ##
  
@@ -24,3 +27,4 @@
   <a href = "mailto:livia.almeidadias711@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/livia.almeida003/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div>
+<!--height="150em"-->
