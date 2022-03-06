@@ -14,6 +14,7 @@
   <img align="center" alt="Livia-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Livia-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Livia-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Livia-MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg">
   <img align="right" alt="Livia-pic" height="150" style="border-radius:50px;"
        src="https://cdn.discordapp.com/attachments/941722116074659863/941722240540606514/download20220205124422.png">
 </div>
