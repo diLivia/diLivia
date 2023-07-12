@@ -1,6 +1,6 @@
 ## Olá, eu sou a Lívia Almeida! 👋
- - Estudando HTML, CSS e JavaScript
- - Tenho 18 anos
+ - Currently learning JavaScript
+ - 🖥️ Cursando Ciência da Computação
  
  <div align="center">
   <a href="https://github.com/liviaonboard">
