@@ -1,5 +1,5 @@
 ## Olá, eu sou a Lívia Almeida!
- - 📓 Atualmente estudando JavaScript e banco de dados SQL
+ - 📓 Atualmente estudando JavaScript e SQL com PostgreSQL
  - 🖥️ Cursando Ciência da Computação
  
  <div align="center">
