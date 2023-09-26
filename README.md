@@ -3,9 +3,9 @@
  - 🖥️ Cursando Ciência da Computação
  
  <div align="center">
-  <a href="https://github.com/liviaonboard">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=liviaonboard&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviaonboard&layout=compact&langs_count=7&theme=date_night"/>
+  <a href="https://github.com/diLivia">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=diLivia&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diLivia&layout=compact&langs_count=7&theme=date_night"/>
 </div>
  
  ##
@@ -20,7 +20,7 @@
  
  <div>
    <a href = "https://www.linkedin.com/in/l%C3%ADvia-almeida-ba822a220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:livia.almeidadias711@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:livia.almeidajobs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/livia.almeida003/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div>
 <!--height="150em"-->
